@@ -60,7 +60,7 @@
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(174, 128);
+            textBox1.Location = new Point(185, 128);
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(100, 23);
             textBox1.TabIndex = 2;
@@ -92,6 +92,7 @@
             button3.TabIndex = 5;
             button3.Text = "-";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click_1;
             // 
             // button4
             // 
@@ -101,6 +102,7 @@
             button4.TabIndex = 6;
             button4.Text = "*";
             button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
             // 
             // button5
             // 
@@ -110,12 +112,13 @@
             button5.TabIndex = 7;
             button5.Text = "/";
             button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(788, 385);
             Controls.Add(button5);
             Controls.Add(button4);
             Controls.Add(button3);
