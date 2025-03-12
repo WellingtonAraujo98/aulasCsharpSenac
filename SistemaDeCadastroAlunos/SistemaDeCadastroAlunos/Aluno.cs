@@ -12,28 +12,35 @@ namespace SistemaDeCadastroAlunos
         public string Curso;
         public int Matricula;
 
-        public Aluno()
-        {
-        }
 
-        public string AdicionarNome() 
+        private static List<Aluno> listaAlunos = new List<Aluno>();
+
+        public static void AdicionarAluno()
         {
             Console.WriteLine("Digite o nome do aluno: ");
             string nome = Console.ReadLine();
-            return nome;
-        }
-        public void AdicionarCurso()
-        {
+            
+
             Console.WriteLine("Qual o curso do aluno? ");
-            Curso = Console.ReadLine();
+            string curso = Console.ReadLine();
+            
+            Console.WriteLine("Qual a matrícula do aluno? ");
+            int matricula = int.Parse(Console.ReadLine());
+
+
+            // Adiciona o aluno à lista
+            listaAlunos.Add(new Aluno { Nome = nome, Curso = curso, Matricula = matricula });
+
+            Console.WriteLine("Aluno cadastrado com sucesso!\n");
         }
-        public void AdicionarMatricula()
+
+        public static void ListarAlunos()
         {
-            Console.WriteLine("Qual a matricula do aluno? ");
-            Matricula = int.Parse(Console.ReadLine());
+            Console.WriteLine("\nLista de Alunos Cadastrados:");
+            foreach (var aluno in listaAlunos)
+            {
+                Console.WriteLine($"Nome: {aluno.Nome}, Curso: {aluno.Curso}, Matrícula: {aluno.Matricula}");
+            }
         }
-
-
-
     }
 }
