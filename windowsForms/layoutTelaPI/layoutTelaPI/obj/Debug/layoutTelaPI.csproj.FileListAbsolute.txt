@@ -1,0 +1,11 @@
+C:\Users\wellington.aferreir2\Documents\aulas\windowsForms\layoutTelaPI\layoutTelaPI\bin\Debug\layoutTelaPI.exe.config
+C:\Users\wellington.aferreir2\Documents\aulas\windowsForms\layoutTelaPI\layoutTelaPI\bin\Debug\layoutTelaPI.exe
+C:\Users\wellington.aferreir2\Documents\aulas\windowsForms\layoutTelaPI\layoutTelaPI\bin\Debug\layoutTelaPI.pdb
+C:\Users\wellington.aferreir2\Documents\aulas\windowsForms\layoutTelaPI\layoutTelaPI\obj\Debug\layoutTelaPI.csproj.AssemblyReference.cache
+C:\Users\wellington.aferreir2\Documents\aulas\windowsForms\layoutTelaPI\layoutTelaPI\obj\Debug\layoutTelaPI.Form1.resources
+C:\Users\wellington.aferreir2\Documents\aulas\windowsForms\layoutTelaPI\layoutTelaPI\obj\Debug\layoutTelaPI.Properties.Resources.resources
+C:\Users\wellington.aferreir2\Documents\aulas\windowsForms\layoutTelaPI\layoutTelaPI\obj\Debug\layoutTelaPI.csproj.GenerateResource.cache
+C:\Users\wellington.aferreir2\Documents\aulas\windowsForms\layoutTelaPI\layoutTelaPI\obj\Debug\layoutTelaPI.csproj.CoreCompileInputs.cache
+C:\Users\wellington.aferreir2\Documents\aulas\windowsForms\layoutTelaPI\layoutTelaPI\obj\Debug\layoutTelaPI.exe
+C:\Users\wellington.aferreir2\Documents\aulas\windowsForms\layoutTelaPI\layoutTelaPI\obj\Debug\layoutTelaPI.pdb
+C:\Users\wellington.aferreir2\Documents\aulas\windowsForms\layoutTelaPI\layoutTelaPI\obj\Debug\layoutTelaPI.screen.MenuInicialScreen.resources
