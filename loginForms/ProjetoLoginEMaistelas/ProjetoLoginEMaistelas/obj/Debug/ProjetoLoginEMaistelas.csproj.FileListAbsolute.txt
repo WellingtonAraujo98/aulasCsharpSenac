@@ -1,0 +1,11 @@
+C:\Users\wellington.aferreir2\Documents\aulas\loginForms\ProjetoLoginEMaistelas\ProjetoLoginEMaistelas\bin\Debug\ProjetoLoginEMaistelas.exe.config
+C:\Users\wellington.aferreir2\Documents\aulas\loginForms\ProjetoLoginEMaistelas\ProjetoLoginEMaistelas\bin\Debug\ProjetoLoginEMaistelas.exe
+C:\Users\wellington.aferreir2\Documents\aulas\loginForms\ProjetoLoginEMaistelas\ProjetoLoginEMaistelas\bin\Debug\ProjetoLoginEMaistelas.pdb
+C:\Users\wellington.aferreir2\Documents\aulas\loginForms\ProjetoLoginEMaistelas\ProjetoLoginEMaistelas\obj\Debug\ProjetoLoginEMaistelas.csproj.AssemblyReference.cache
+C:\Users\wellington.aferreir2\Documents\aulas\loginForms\ProjetoLoginEMaistelas\ProjetoLoginEMaistelas\obj\Debug\ProjetoLoginEMaistelas.Properties.Resources.resources
+C:\Users\wellington.aferreir2\Documents\aulas\loginForms\ProjetoLoginEMaistelas\ProjetoLoginEMaistelas\obj\Debug\ProjetoLoginEMaistelas.csproj.GenerateResource.cache
+C:\Users\wellington.aferreir2\Documents\aulas\loginForms\ProjetoLoginEMaistelas\ProjetoLoginEMaistelas\obj\Debug\ProjetoLoginEMaistelas.csproj.CoreCompileInputs.cache
+C:\Users\wellington.aferreir2\Documents\aulas\loginForms\ProjetoLoginEMaistelas\ProjetoLoginEMaistelas\obj\Debug\ProjetoLoginEMaistelas.exe
+C:\Users\wellington.aferreir2\Documents\aulas\loginForms\ProjetoLoginEMaistelas\ProjetoLoginEMaistelas\obj\Debug\ProjetoLoginEMaistelas.pdb
+C:\Users\wellington.aferreir2\Documents\aulas\loginForms\ProjetoLoginEMaistelas\ProjetoLoginEMaistelas\obj\Debug\ProjetoLoginEMaistelas.LoginApp.resources
+C:\Users\wellington.aferreir2\Documents\aulas\loginForms\ProjetoLoginEMaistelas\ProjetoLoginEMaistelas\obj\Debug\ProjetoLoginEMaistelas.MainForm.resources
