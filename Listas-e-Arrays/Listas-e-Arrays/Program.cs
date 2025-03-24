@@ -57,7 +57,27 @@ namespace Listas_e_Arrays
             listaAlunos.Add(aluno1);
             listaAlunos.Add(aluno2);
             listaAlunos.Add(aluno3);
+            Aluno aluno4 = new Aluno();
 
+            Console.Write("Digite o nome do quarto aluno: ");
+            aluno4.Nome = Console.ReadLine();
+
+            Console.Write("Digite o e-mail do quarto aluno: ");
+            aluno4.Email = Console.ReadLine();
+
+            Console.Write("Qual o curso do quarto aluno: ");
+            aluno4.Curso = Console.ReadLine();
+
+            Console.Write("Digite o matricula do quarto aluno: ");
+            aluno4.Matricula = int.Parse(Console.ReadLine());
+
+            Console.Write("Digite o telefone do quarto aluno: ");
+            aluno4.Telefone = Console.ReadLine();
+
+            listaAlunos.Add(aluno4);
+
+           
+            
             foreach (Aluno aluno in listaAlunos) 
             {
                 Console.WriteLine($"Nome: {aluno.Nome}");
@@ -66,6 +86,7 @@ namespace Listas_e_Arrays
                 Console.WriteLine($"Numero: {aluno.Telefone}");
                 Console.WriteLine("");
             }
+            
 
         }
     }

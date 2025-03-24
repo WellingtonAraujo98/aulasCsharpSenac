@@ -22,6 +22,10 @@ namespace Listas_e_Arrays
             Email = email;
             Telefone = telefone;
         }
+        public Aluno()
+        {
+
+        }
 
         
 
