@@ -32,6 +32,7 @@
             this.labelResultado = new System.Windows.Forms.Label();
             this.buttonRandom = new System.Windows.Forms.Button();
             this.buttonDateTime = new System.Windows.Forms.Button();
+            this.buttonTimeSpan = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // botao
@@ -67,7 +68,7 @@
             // 
             // buttonDateTime
             // 
-            this.buttonDateTime.Location = new System.Drawing.Point(374, 332);
+            this.buttonDateTime.Location = new System.Drawing.Point(363, 332);
             this.buttonDateTime.Name = "buttonDateTime";
             this.buttonDateTime.Size = new System.Drawing.Size(75, 23);
             this.buttonDateTime.TabIndex = 3;
@@ -75,11 +76,22 @@
             this.buttonDateTime.UseVisualStyleBackColor = true;
             this.buttonDateTime.Click += new System.EventHandler(this.buttonDateTime_Click);
             // 
+            // buttonTimeSpan
+            // 
+            this.buttonTimeSpan.Location = new System.Drawing.Point(465, 332);
+            this.buttonTimeSpan.Name = "buttonTimeSpan";
+            this.buttonTimeSpan.Size = new System.Drawing.Size(75, 23);
+            this.buttonTimeSpan.TabIndex = 4;
+            this.buttonTimeSpan.Text = "dataSpan";
+            this.buttonTimeSpan.UseVisualStyleBackColor = true;
+            this.buttonTimeSpan.Click += new System.EventHandler(this.buttonTimeSpan_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.buttonTimeSpan);
             this.Controls.Add(this.buttonDateTime);
             this.Controls.Add(this.buttonRandom);
             this.Controls.Add(this.labelResultado);
@@ -98,6 +110,7 @@
         private System.Windows.Forms.Label labelResultado;
         private System.Windows.Forms.Button buttonRandom;
         private System.Windows.Forms.Button buttonDateTime;
+        private System.Windows.Forms.Button buttonTimeSpan;
     }
 }
 
